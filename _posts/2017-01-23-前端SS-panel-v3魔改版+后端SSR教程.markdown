@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: 前端SS-panel-v3魔改版+后端SSR教程
 ---
 
