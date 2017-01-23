@@ -11,4 +11,4 @@ github_username:  shawnxkwang
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-leap-day
