@@ -6,6 +6,10 @@ title: 前端SS-panel-v3魔改版+后端RSSmanyuser教程
 
 后端 https://github.com/esdeathlove/shadowsocks
 
+改良自
+https://github.com/iMeiji/shadowsocks_install/wiki/%E6%90%AD%E5%BB%BA-sspanel-v3-%E9%AD%94%E6%94%B9%E7%89%88%E8%AE%B0%E5%BD%95
+添加了多处细节提醒，防止调试时无从下手（像我一样白花了很多时间，这很不好）。
+
 演示环境 : 搬瓦工（Bandwagon） 256RAM机子 Ubuntu 16.04 x64
 ## 安装前端
 
