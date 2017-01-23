@@ -1,4 +1,4 @@
 # shawnxkwang.github.io
-my github page
+My Blog for everything.
 
 Powered by Jekyll
